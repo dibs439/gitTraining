@@ -2,3 +2,4 @@ This is line 1
 This is line 2
 This is line 3 from dev branch
 This is line 3 from dev-new branch
+This is line 4 from dev branch after conflicts
